@@ -9,7 +9,7 @@ This Python script processes historical S&P 500 data, computes daily returns, an
 2. Run the script with Python:
 
 ```bash
-python spx_return_analyzer.py
+python3 spx_return_analyzer.py
 ```
 
 The script will output yearly average returns, annualized returns, and the expected market return.
