@@ -17,6 +17,3 @@ The script will output yearly average returns, annualized returns, and the expec
 ## Requirements
 - Python 3.x
 - csv and datetime modules (part of Python's standard library)
-
-## Note
-Please use this script responsibly and acknowledge that historical returns are not indicative of future performance.
